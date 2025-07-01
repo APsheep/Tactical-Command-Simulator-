@@ -36,11 +36,14 @@ A lightweight real-time simulation built in Java to demonstrate multithreading, 
 ---
 
 # How to Run
-
-# Compile
+Compile:
 
 bash
+
 javac *.java
+
+Run:
+
 java Main
 
 ---
