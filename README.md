@@ -26,7 +26,7 @@ A lightweight real-time simulation built in Java to demonstrate multithreading, 
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. The simulation launches 3 units (`Unit-1`, `Unit-2`, `Unit-3`) using threads.
 2. Each unit updates its position every 1 second by moving randomly.
@@ -35,33 +35,60 @@ A lightweight real-time simulation built in Java to demonstrate multithreading, 
 
 ---
 
-## 💻 Sample Output
+## Sample Output
 
 Unit-1 is at (0,0)
+
 Unit-2 is at (0,0)
+
 Unit-3 is at (0,1)
+
 Unit-1 is at (1,0)
+
 Unit-2 is at (0,0)
+
 Unit-3 is at (0,2)
+
 Unit-3 is at (0,3)
+
 Unit-1 is at (1,0)
+
 Unit-2 is at (0,0)
+
 Unit-3 is at (0,4)
+
 Unit-1 is at (2,0)
+
 Unit-2 is at (0,0)
+
 Unit-3 is at (0,4)
+
 Unit-2 is at (0,0)
+
 Unit-1 is at (2,0)
+
 Unit-3 is at (0,4)
+
 Unit-1 is at (2,0)
+
 Unit-2 is at (0,0)
+
 Unit-3 is at (0,4)
+
 Unit-2 is at (0,0)
+
 Unit-1 is at (2,0)
+
 Unit-3 is at (0,4)
+
 Unit-1 is at (2,0)
+
 Unit-2 is at (0,0)
+
 Unit-3 is at (1,4)
+
 Unit-2 is at (1,1)
+
 Unit-1 is at (3,0)
+
 Simulation ended.
