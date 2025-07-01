@@ -39,7 +39,7 @@ A lightweight real-time simulation built in Java to demonstrate multithreading, 
 
 # Compile
 
-```bash
+bash
 javac *.java
 java Main
 
